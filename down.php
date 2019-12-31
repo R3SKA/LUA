@@ -1,4 +1,1 @@
-{
-  "updateurl": "http://github.com/R3SKA/LUA/blob/master/gg.lua",
-  "latest": "1"
-}
+{"latest": "30","updateurl": "http://github.com/R3SKA/LUA/blob/master/gg.lua","changelog": "http://github.com/R3SKA/LUA/blob/master/gg.lua"}
